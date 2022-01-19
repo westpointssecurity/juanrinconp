@@ -3,8 +3,8 @@
 
 ## I'm a Economics student at the Pontifical Xavierian University
 
-- 🔭 This is a repository i did to show the M.A. students how to use python for basic econometrics: [Econometria con Python][course]!
-- 🌱 Here is a [website][course2]! (in progress) where I do some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
+- 🔭 This is a repository i did to show the M.A. students how to use python for basic econometrics: [Econometria con Python][course]
+- 🌱 Here is a [website][course2] (in progress) where I do some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
 
 
 ### Connect with me:
@@ -44,7 +44,6 @@
 [linkedin]: https://www.linkedin.com/in/juanrinconp/
 
 <!--
-**juanrinconp/juanrinconp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
