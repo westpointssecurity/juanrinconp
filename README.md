@@ -1,6 +1,5 @@
 ### Hi there, I'm [Juan Rincón][website] 👋
 
-[![Website](https://juanrinconp.com/)
 
 ## I'm a Economics student at the Pontifical Xavierian University
 
@@ -39,7 +38,7 @@
 
 
 
-[website]: https://codeSTACKr.com
+[website]: https://juanrinconp.com
 [course]: https://github.com/juanrinconp/Monitorias-Econometria
 [course2]: https://juanrinconp.github.io/Econometria_Avanzada/index.html
 [youtube]: https://www.youtube.com/channel/UCwWW8vfwtnyr3xeUFMR4Gjg
