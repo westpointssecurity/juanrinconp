@@ -3,8 +3,8 @@
 
 ## I'm a Economics student at the Pontifical Xavierian University in Colombia
 
-- 🔭 This is a repository i did to show the M.A. students how to use python for basic econometrics: [Econometria con Python][course]
-- 🌱 This is a [website][course2] (in progress) where I do some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
+- 🔭 This is a [repository][course] i did to show the M.A. students how to use python for basic econometrics.
+- 🌱 This is a [website][course2] (in progress) where I make some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
 
 
 ### Connect with me:
@@ -37,7 +37,7 @@
 
 
 [website]: https://juanrinconp.com
-[course]: https://github.com/juanrinconp/Monitorias-Econometria
+[course]: https://github.com/juanrinconp/Monitorias-Econometria/blob/main/Monitoria-Notebooks/%C3%8Dndice.ipynb
 [course2]: https://juanrinconp.github.io/Econometria_Avanzada/index.html
 [youtube]: https://www.youtube.com/channel/UCwWW8vfwtnyr3xeUFMR4Gjg
 [instagram]: https://www.instagram.com/juanesrp18/?hl=es-la
