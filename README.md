@@ -3,6 +3,7 @@
 
 ## I'm a Economics student at the Pontifical Xavierian University in Colombia
 
+- 📘 This is my [youtube chanel][youtube] with the Advance Econometrics with stata class.
 - 🔭 This is a [repository][course] i did to show the M.A. students how to use python for basic econometrics.
 - 🌱 This is a [website][course2] (in progress) where I make some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
 
