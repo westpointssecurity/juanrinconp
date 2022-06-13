@@ -1,4 +1,4 @@
-## Hi there, I'm [Juan Rincón][website] 👋
+## Hi there, I'm Juan Rincón 👋
 
 
 ## I'm a Economics student at the Pontifical Xavierian University in Colombia
