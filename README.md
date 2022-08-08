@@ -1,8 +1,5 @@
 ## Hi there, I'm Juan Rincón 👋
 
-
-## I'm a Economics student at the Pontifical Xavierian University in Colombia
-
 - 💻  This is my [youtube channel][youtube] with some of my videos teaching stata and R.
 - 📘 This is a [repository][course] i did to show the M.A. students how to use python for basic econometrics.
 - 📗 This is a [website][course2] (in progress) where I made some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
@@ -37,7 +34,7 @@
 
 
 
-[website]: https://juanrinconp.com
+[website]: [https://juanrinconp.com](https://juanrinconp.github.io/website/)
 [course]: https://github.com/juanrinconp/Monitorias-Econometria/blob/main/Monitoria-Notebooks/%C3%8Dndice.ipynb
 [course2]: https://juanrinconp.github.io/Econometria_Avanzada/index.html
 [youtube]: https://www.youtube.com/watch?v=r62cg8IDpc8&list=PLdC_cea9YByoAfhm8dtrbHvhH3zgwBVKn&ab_channel=JuanEstebanRinconPoveda
