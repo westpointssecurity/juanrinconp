@@ -150,8 +150,8 @@ p {
   position: absolute;
   inset: 0;
   background:
-    url("assets/againn-gels.jpg") center / cover no-repeat;
-  transform: scale(1.04);
+    url("assets/againn-hero-cycling.jpg") center 40% / cover no-repeat;
+  transform: scale(1.06);
   animation: hero-drift 18s var(--ease-out) infinite alternate;
   will-change: transform;
 }
@@ -162,12 +162,12 @@ p {
   background:
     linear-gradient(
       105deg,
-      rgba(10, 12, 16, 0.78) 0%,
-      rgba(10, 12, 16, 0.55) 42%,
-      rgba(10, 12, 16, 0.22) 68%,
-      rgba(10, 12, 16, 0.35) 100%
+      rgba(8, 10, 14, 0.72) 0%,
+      rgba(8, 10, 14, 0.48) 38%,
+      rgba(8, 10, 14, 0.18) 62%,
+      rgba(8, 10, 14, 0.28) 100%
     ),
-    linear-gradient(0deg, rgba(10, 12, 16, 0.55) 0%, transparent 42%);
+    linear-gradient(0deg, rgba(8, 10, 14, 0.58) 0%, transparent 48%);
   pointer-events: none;
 }
 
